@@ -13,7 +13,7 @@ A reusable React cover flow with liquid glass, 3D depth, reflections, and carefu
 
 [Live demo](https://opc8838-hub.github.io/cover-flow-showcase/)
 
-### [Codex Bridge for Feishu](https://github.com/opc8838-hub/codex-bridge-feishu)
+### [Codex + Claude Bridge for Feishu](https://github.com/opc8838-hub/codex-claude-bridge-feishu)
 
 Connect OpenAI Codex or Claude Code to Feishu/Lark with streaming cards, persistent sessions, and multiple workspaces.  
 把 OpenAI Codex 或 Claude Code 接入飞书，支持流式卡片、持久会话和多工作区。
