@@ -6,6 +6,11 @@ AI product builder exploring agent workflows, creative interfaces, and small too
 
 ## Featured Projects / 精选项目
 
+### [Feishu Grok Bridge](https://github.com/opc8838-hub/feishu-grok-bridge) — latest
+
+Talk to local **Grok Build CLI** from Feishu/Lark: streaming cards, permission buttons, `/newchat`, persistent sessions.  
+**最新：** 把本机 Grok 接到飞书。流式卡片、权限审批、持久会话，和终端 `grok --resume` 互通。
+
 ### [Glass Cover Flow](https://github.com/opc8838-hub/cover-flow-showcase)
 
 A reusable React cover flow with liquid glass, 3D depth, reflections, and carefully tuned motion.  
@@ -15,8 +20,8 @@ A reusable React cover flow with liquid glass, 3D depth, reflections, and carefu
 
 ### [Codex + Claude Bridge for Feishu](https://github.com/opc8838-hub/codex-claude-bridge-feishu)
 
-Connect OpenAI Codex or Claude Code to Feishu/Lark with streaming cards, persistent sessions, and multiple workspaces.  
-把 OpenAI Codex 或 Claude Code 接入飞书，支持流式卡片、持久会话和多工作区。
+Connect OpenAI Codex or Claude Code to Feishu/Lark with streaming cards, persistent sessions, and multiple workspaces. (Grok is a separate latest repo above.)  
+把 OpenAI Codex 或 Claude Code 接入飞书，支持流式卡片、持久会话和多工作区。（Grok 见上方最新仓。）
 
 ### [Glass Light Orb](https://github.com/opc8838-hub/glass-light-orb)
 
