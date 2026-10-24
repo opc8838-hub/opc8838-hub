@@ -1,47 +1,44 @@
-# Hi, I'm Allen Lei
+# Allen Lei · 黎健堂
 
-AI product builder exploring agent workflows, creative interfaces, and small tools that turn ideas into working products.
+Design engineer for the AI era — I set the taste and the story; AI does the hands. Motion, launch films, and small products that actually ship.
 
-你好，我是 Allen，一名 AI 产品构建者。我关注 Agent 工作流、创意交互，以及如何把想法快速做成真正可用的产品。
+AI 时代的设计工程师：我负责审美和故事，AI 负责动手。做动效、做发布会片，也做真正上线的小产品。
 
-## Featured Projects / 精选项目
+- 连盈 LY-600 发布会片 · AIGC 比赛冠军 — [制作手记](https://opc8838-hub.github.io/keynote/)
+- 黑客松 Agent 赛道第一名 ×2
+- 碳基社区 Agent 板块负责人 · 主讲老师（东莞）
 
-### [Feishu Agent Bridge](https://github.com/opc8838-hub/codex-claude-bridge-feishu) — latest
+## Motion / 动效
 
-**One repo, three Feishu bots:** Grok (latest) · Claude Code · Codex. Streaming cards, `/newchat`, persistent sessions.  
-**一个仓、三个飞书 BOT：** Grok（最新）· Claude · Codex。流式卡片、自动建群、持久会话。
+### [CellMotion](https://github.com/opc8838-hub/font-animation)
 
-### [Glass Cover Flow](https://github.com/opc8838-hub/cover-flow-showcase)
+Editable motion for type, icons and media. Every effect starts from a reference video broken down frame by frame, then becomes an editor with PNG / GIF / MP4 export and a component AI frontends can reuse.
 
-A reusable React cover flow with liquid glass, 3D depth, reflections, and carefully tuned motion.  
-一个可复用的 React 3D 封面流组件，包含液态玻璃、倒影、循环浏览和细致调校的动效。
+可编辑的文字、图标与媒体动效。每个效果都从一段参考视频逐帧拆解开始，做成可编辑的编辑器，支持导出 PNG / GIF / MP4，也能作为组件交给 AI 前端复用。
 
-[Live demo](https://opc8838-hub.github.io/cover-flow-showcase/)
+[cellmotion.cn](https://cellmotion.cn) · [How a reference video becomes an effect / 拆解工作流](https://github.com/opc8838-hub/font-animation/blob/main/docs/REFERENCE_VIDEO_WORKFLOW.md)
 
-### [Glass Light Orb](https://github.com/opc8838-hub/glass-light-orb)
+### Components / 组件
 
-A React + OGL component for rendering a soft refractive glass orb with animated light strands.  
-一个基于 React 与 OGL 的玻璃光球组件，包含动态光带、折射和色散效果。
+| | |
+|---|---|
+| [Glass Cover Flow](https://github.com/opc8838-hub/cover-flow-showcase) | Liquid-glass 3D cover flow for React · 液态玻璃 3D 封面流 · [demo](https://opc8838-hub.github.io/cover-flow-showcase/) |
+| [Glass Light Orb](https://github.com/opc8838-hub/glass-light-orb) | React + OGL refractive orb · 玻璃光球 · [demo](https://opc8838-hub.github.io/glass-light-orb/) |
+| [your present](https://github.com/opc8838-hub/clothes) | Garment rack with AI-generated turnarounds · 衣架作品集，AI 视频生成的衣服转身 · [demo](https://opc8838-hub.github.io/clothes/) |
+| [Parallax Studio](https://github.com/opc8838-hub/parallax-studio) | Upload-your-own parallax gallery with WebGL hover effects · 视差画廊编辑器 · [demo](https://opc8838-hub.github.io/parallax-studio/) |
 
-[Live demo](https://opc8838-hub.github.io/glass-light-orb/)
+## Products / 产品
 
-### [Emoji Maker](https://github.com/opc8838-hub/emoji-maker)
+- **hely.fun** — say one sentence, get a ready-made scene, fill a form, get the image. No prompts. 一句话找到场景、填表出图，不用写提示词。[hely.fun](https://hely.fun)
+- **Today on Earth** — a 48-second look at the planet, twice a day, from live public cameras. 每天两次，48 秒看此刻的地球。
+- **[Tone Duo](https://github.com/opc8838-hub/Palette-Avatar-Generator)** — avatar studio that runs in your browser. 浏览器里做头像。
 
-A compact Next.js experiment for creating custom reaction images.  
-一个使用 Next.js 构建的轻量表情包生成实验。
+## How I work / 我的方法
 
-### [Ming Pan](https://github.com/opc8838-hub/mingpan)
+- **[Keynote launch film skill](https://github.com/opc8838-hub/keynote)** — five acts, human taste, AI production. 五幕结构，人定审美，AI 制作。
+- **[Teaching: from chatting to working](https://opc8838-hub.github.io/teaching/)** — AI agent course for beginners. 给零基础职场人的 AI Agent 入门课。
+- **[Feishu Agent Bridge](https://github.com/opc8838-hub/codex-claude-bridge-feishu)** — Grok · Claude Code · Codex in Feishu group chats. 把编程 Agent 接进飞书群。
 
-An AI-assisted Chinese astrology product prototype with deterministic chart calculation and generated interpretation.  
-一个 AI 命理产品原型，结合确定性八字排盘与 AI 解读。
+## Connect / 联系
 
-## What I Build / 我在做什么
-
-- AI agents and practical automation / AI Agent 与实用自动化
-- Creative web interfaces and interaction prototypes / 创意网页与交互原型
-- Small, focused products built through rapid iteration / 通过快速迭代构建小而专注的产品
-
-## Connect / 联系我
-
-- GitHub: [@opc8838-hub](https://github.com/opc8838-hub)
-- X: [@opc_8838](https://x.com/opc_8838)
+[X @opc_8838](https://x.com/opc_8838) · [Portfolio / 作品集](https://personal-universe-taupe.vercel.app)
